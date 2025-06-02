@@ -1,3 +1,15 @@
+# LICENSE FONT
+
+*   Font: c64-truetype-v1.2.1 
+
+Download: https://style64.org/release/c64-truetype-v1.2.1-style
+
+License: (idk but there is text of license)
+
+License "Our C64 TrueType fonts provide monospace and variable pitch versions of the legendary C64 character set. Our goal is to provide all 304 necessary glyphs in the C64 character set in as small a file as possible while still being programmer/builder friendly.
+
+This update corrects some bounding box issues as reported in the updated Microsoft Font Validator, left side bearing on one glyph, and updates some PS names. This update also adds a 'proper' OpenType format (.otf) with CFF outlines. All files should be smaller than the previous release. SVG format has been dropped."
+
 # Terminal
 
 **Demo: https://panr.github.io/hugo-theme-terminal-demo/**
@@ -12,19 +24,24 @@
 
 ---
 
-- [Features](#features)
-- [Built-in shortcodes](#built-in-shortcodes)
-- [Code highlighting](#code-highlighting)
-- [How to start](#how-to-start)
-- [How to run your site](#how-to-run-your-site)
-- [How to configure](#how-to-configure)
-- [Post archetype](#post-archetype)
-- [Add-ons](#add-ons)
-- [How to edit the theme](#how-to-edit)
-- [Found a bug?](#bug)
-- [New cool idea or feature](#feature)
-- [Support](#support)
-- [License](#license)
+- [LICENSE FONT](#license-font)
+- [Terminal](#terminal)
+  - [Features](#features)
+      - [Built-in shortcodes](#built-in-shortcodes)
+      - [Code highlighting](#code-highlighting)
+  - [How to start](#how-to-start)
+    - [Install theme as Hugo Module](#install-theme-as-hugo-module)
+    - [Install theme locally](#install-theme-locally)
+    - [Install theme as a submodule](#install-theme-as-a-submodule)
+  - [How to run your site](#how-to-run-your-site)
+  - [How to configure](#how-to-configure)
+  - [Post archetype](#post-archetype)
+  - [Add-ons](#add-ons)
+  - [How to edit the theme ](#how-to-edit-the-theme-)
+  - [Found a bug? ](#found-a-bug-)
+  - [New cool idea or feature? ](#new-cool-idea-or-feature-)
+  - [Support](#support)
+  - [License](#license)
 
 ## Features
 
